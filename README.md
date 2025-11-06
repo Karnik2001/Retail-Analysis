@@ -49,3 +49,19 @@ Improved forecasting accuracy using ensemble and neural network models.
 Identified sales trends useful for inventory planning and demand forecasting.
 
 Demonstrated the power of data analytics in retail decision-making.
+
+## Citations
+
+https://www.datacamp.com/tutorial/sklearn-linear-regression
+
+https://www.geeksforgeeks.org/machine-learning/random-forest-regression-in-python/
+
+https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+
+https://machinelearningmastery.com/lasso-regression-with-python/
+
+https://www.geeksforgeeks.org/machine-learning/ml-ridge-regressor-using-sklearn/
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
+
+ChatGPT
